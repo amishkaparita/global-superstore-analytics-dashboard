@@ -30,11 +30,7 @@ The dashboard provides interactive insights into:
 - DAX
 - Data Visualization
 - Business Analytics Concepts
-
-## Dashboard Preview
-
-![Dashboard Preview](global-superstore-dashboard.png)
-
+  
 ## Learning Objectives
 This project was created as part of my learning journey to strengthen:
 - Data analytics understanding
